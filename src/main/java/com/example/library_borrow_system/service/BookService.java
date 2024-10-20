@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 import com.example.library_borrow_system.model.Book;
 import com.example.library_borrow_system.repository.BookRepository;
 
+//未來可以擴充管理書籍的頁面
 @Service
 public class BookService {
 

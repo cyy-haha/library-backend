@@ -1,4 +1,4 @@
-package com.example.library_borrow_system;
+package com.example.library_borrow_system.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
